@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-databind:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springmvc-databind.war">
+      <element id="artifact" artifact-name="springmvc-databind:war exploded" />
+    </root>
+  </artifact>
+</component>
